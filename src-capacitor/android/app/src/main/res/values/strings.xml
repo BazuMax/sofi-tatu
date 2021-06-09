@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sofi Tatu</string>
+    <string name="title_activity_main">Sofi Tatu</string>
+    <string name="package_name">org.bazumax.sofitatu.app</string>
+    <string name="custom_url_scheme">org.bazumax.sofitatu.app</string>
+</resources>
