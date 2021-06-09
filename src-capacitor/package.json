@@ -1,0 +1,12 @@
+{
+  "name": "sofi-tatu",
+  "version": "0.0.1",
+  "description": "Приложение Sofi Tatu ",
+  "author": "bazuka5801",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/core": "^3.0.0",
+    "@capacitor/android": "^3.0.0"
+  }
+}

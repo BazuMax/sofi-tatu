@@ -8,7 +8,8 @@
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0",
-    "generate:icons": "icongenie g -p ./icongenie-prod.json"
+    "generate:icons": "icongenie g -p ./icongenie-prod.json",
+    "dev:android": "quasar dev -m capacitor -T android --ide"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
