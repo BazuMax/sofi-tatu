@@ -1,8 +1,8 @@
 {
   "name": "sofi-tatu",
   "version": "0.0.1",
-  "description": "Приложение Sofi Tatu ",
-  "author": "bazuka5801",
+  "description": "Sofi Tatu",
+  "author": "Max <bazuka5801@mail.ru>",
   "private": true,
   "dependencies": {
     "@capacitor/cli": "^3.0.0",
